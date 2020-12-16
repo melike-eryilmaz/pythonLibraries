@@ -1,0 +1,23 @@
+------NUMPY KÜTÜPHANESİ-------
+* Numpy dizilerle çalışmak için kullanılan bir python kütüphanesidir.
+*Neden numpy kullanılır?
+*Pythonda dizilerin kullanımı amacına hizmet eden listeler var fakat yavaş.
+*Numpy geleneksel python listelerinden daha hızlıdır.
+*Numpy deki diziler ndarray olark adlandırılır.
+*ndarray çalışmayı çok kolaylaştıran birçok destekleyici işlev sağlar.
+*Diziler ,hız ve kaynakların çok önemli olduğu veri biliminde çok sık kullanılır.
+
+Veri bilimi : 
+Verilerin ondan bilgi edinmek için nasıl saklanacağını ,
+kullanılacağını ve analiz edileceğini inceleyeceğimiz bir bilgisayar bilimi dalıdır.
+
+*Numpy dizileri ,listelerin aksine bellekte sürekli olarak tek bir yerde saklanır .
+*Böylece daha hızlı erişilebilir ve işlenebilir.
+Numpy nin listelerden daha hızlı olmasının ana nedeni budur.
+
+Numpy nasıl yüklenir?
+*Sisteminizde hazırda python  ve pip yüklü ise pip install numpy komutu ile numpy kütüphanesi kurulabilir.
+*Numpy genellikle np takma adı ile import edilir.
+* Array() kullanarak bir numpy ndArray nesnesi oluşturabiliriz.
+
+*Nested Arrays:Elemanları olarak dizilere sahip olan dizilerdir.
